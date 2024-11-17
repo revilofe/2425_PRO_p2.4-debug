@@ -1,8 +1,8 @@
-# Práctica 2.2: Sentencias iterativas
+# Práctica 2.4: Depurar (Debug)
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[U2: 3. Excepciones](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica003/)
+[U2: 4. Depurar](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica004/)
 
 ---
 
